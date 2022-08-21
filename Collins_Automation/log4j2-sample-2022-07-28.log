@@ -1,0 +1,28 @@
+[INFO ] 2022-07-28 11:49:09.406 [main] Log - Clicking on signin link
+[INFO ] 2022-07-28 11:49:14.244 [main] Log - Login into application
+[INFO ] 2022-07-28 11:50:07.996 [main] Log - Clicking on signin link
+[INFO ] 2022-07-28 11:50:15.503 [main] Log - Login into application
+[INFO ] 2022-07-28 11:50:15.888 [main] Log - Verify that signout link is displayed
+[INFO ] 2022-07-28 11:50:19.088 [main] Log - Logout from the application
+[INFO ] 2022-07-28 12:01:23.202 [main] Log - Clicking on signin link
+[INFO ] 2022-07-28 12:01:32.332 [main] Log - Login into application
+[INFO ] 2022-07-28 12:02:11.111 [main] Log - Clicking on signin link
+[INFO ] 2022-07-28 12:06:17.603 [main] Log - Clicking on signin link
+[INFO ] 2022-07-28 12:06:24.197 [main] Log - Login into application
+[INFO ] 2022-07-28 12:06:24.598 [main] Log - Verify that signout link is displayed
+[INFO ] 2022-07-28 12:06:28.417 [main] Log - Logout from the application
+[INFO ] 2022-07-28 12:11:05.550 [main] Log - Clicking on signin link
+[INFO ] 2022-07-28 12:11:16.035 [main] Log - Login into application
+[INFO ] 2022-07-28 12:11:18.531 [main] Log - Verify that signout link is displayed
+[INFO ] 2022-07-28 12:11:24.046 [main] Log - Logout from the application
+[INFO ] 2022-07-28 12:17:53.498 [main] Log - Clicking on signin link
+[INFO ] 2022-07-28 12:33:28.982 [main] Log - Clicking on signin link
+[INFO ] 2022-07-28 12:33:40.366 [main] Log - Login into application
+[INFO ] 2022-07-28 12:33:46.494 [main] Log - Verify that signout link is displayed
+[INFO ] 2022-07-28 12:33:47.071 [main] Log - Logout from the application
+[INFO ] 2022-07-28 12:36:15.905 [main] Log - Clicking on signin link
+[INFO ] 2022-07-28 12:36:27.476 [main] Log - Login into application
+[INFO ] 2022-07-28 12:37:05.371 [main] Log - Clicking on signin link
+[INFO ] 2022-07-28 12:37:14.961 [main] Log - Login into application
+[INFO ] 2022-07-28 12:37:15.037 [main] Log - Verify that signout link is displayed
+[INFO ] 2022-07-28 12:37:19.406 [main] Log - Logout from the application

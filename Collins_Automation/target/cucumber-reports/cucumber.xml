@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="115.786">
+<testcase classname="User Verifying Dailymail Application" name="Verify web page of dailymail application" time="115.522">
+<system-out><![CDATA[Given User is on Application home page......................................passed
+Then I Verify the webpage displays current date and time....................passed
+When I Navigate to the Sport menu...........................................passed
+When I Click on the Football sub navigation item............................passed
+Then I Verify primary navigation colour Sport and secondary navigation Football are same.passed
+And I Click on the first article displayed and traverse to the gallery image.passed
+And I Click on gallery icon appearing on the right-hand side corner.........passed
+Then I Verify previous and next arrows buttons..............................passed
+And I Navigate to a video embedded within the article.......................passed
+And I Click the full screen button on the right-hand corner of the video....passed
+When I Click on the Facebook share icon and verify it opens Facebook modal dialog.passed
+And I Click the full screen button on the right-hand corner of the video....passed
+And I Click on collapse icon on video.......................................passed
+And I Click on close icon...................................................passed
+And I Get "Liverpool" team points...........................................passed
+And I Get "Liverpool" team position.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
